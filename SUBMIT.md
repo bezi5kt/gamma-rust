@@ -8,8 +8,9 @@ The form uploads the file and opens the pull request on horizon-rust/horizon-mod
 - **Kind:** native mod
 - **Name:** Fullbright
 - **Summary:** Brightness past 100%: `/gamma <value>` sets your own gamma, `/fullbright` toggles full brightness.
+- **Authors / owners:** bezi5kt
 - **License:** MIT
-- **Source:** https://github.com/<your GitHub name>/horizon-fullbright
+- **Source:** https://github.com/bezi5kt/gamma-rust
 - **Icon:** `icon.png`
 - **Game:** 26.3
 - **Changelog:** First release.
